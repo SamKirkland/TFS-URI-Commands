@@ -1,0 +1,14 @@
+2017-10-16 22:47:25,163 [1] - App trigger from uri
+2017-10-16 22:47:25,170 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202129~C202129 /noprompt /recursive
+2017-10-16 22:48:43,441 [1] - App trigger from uri
+2017-10-16 22:48:43,448 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202794~C202794 /noprompt /recursive
+2017-10-16 22:48:58,530 [1] - App trigger from uri
+2017-10-16 22:48:58,538 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202474~C202474 /noprompt /recursive
+2017-10-16 22:49:14,246 [1] - App trigger from uri
+2017-10-16 22:49:14,253 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202407~C202407 /noprompt /recursive
+2017-10-16 22:49:25,056 [1] - App trigger from uri
+2017-10-16 22:49:25,064 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202455~C202455 /noprompt /recursive
+2017-10-16 22:49:32,691 [1] - App trigger from uri
+2017-10-16 22:49:32,699 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202624~C202624 /noprompt /recursive
+2017-10-16 22:49:39,451 [1] - App trigger from uri
+2017-10-16 22:49:39,458 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202692~C202692 /noprompt /recursive
