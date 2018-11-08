@@ -12,3 +12,19 @@
 2017-10-16 22:49:32,699 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202624~C202624 /noprompt /recursive
 2017-10-16 22:49:39,451 [1] - App trigger from uri
 2017-10-16 22:49:39,458 [1] - Command tfmerge. Running:C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\..\IDE\TF.exe merge "$/BuilderTrendTeamProject/Branches/TEST" "$/BuilderTrendTeamProject/BuilderTrend.net" /version:C202692~C202692 /noprompt /recursive
+2017-10-17 09:52:37,110 [1] - Custom protocol started from the user
+2017-10-17 09:53:52,829 [1] - Custom protocol started from the user
+2017-10-17 09:54:17,304 [1] - Custom protocol started from the user
+2017-10-17 09:54:49,290 [1] - Custom protocol started from the user
+2017-10-17 09:55:00,744 [1] - App trigger from uri
+2017-10-17 09:55:36,895 [1] - App trigger from uri
+2017-10-17 09:55:52,526 [1] - Invalid uri System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at CustomProtocol.Program.Main(String[] args) in C:\Users\sam.kirkland\Downloads\TFS-URI-Commands-master\TFS-URI-Commands-master\CustomProtocol\Program.cs:line 105
+2017-10-17 09:56:09,407 [1] - App trigger from uri
+2017-10-17 09:56:13,440 [1] - Invalid uri System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at CustomProtocol.Program.Main(String[] args) in C:\Users\sam.kirkland\Downloads\TFS-URI-Commands-master\TFS-URI-Commands-master\CustomProtocol\Program.cs:line 105
+2017-10-17 09:56:20,805 [1] - App trigger from uri
