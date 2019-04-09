@@ -14,7 +14,7 @@ namespace CustomProtocol
             string uriParams = fullURI.LocalPath.ToString();
 
             // execute merge command and close "/C" (/K Carries out the command specified by string but remains)
-            Process.Start("cmd.exe", $"/C echo Merging Changes... & TF {uriParams}");
+            Process.Start("cmd.exe", $"/K echo Merging Changes... & TF {uriParams}");
         }
         
         static void error(string message) {

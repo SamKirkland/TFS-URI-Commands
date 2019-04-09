@@ -6,7 +6,7 @@ Useful for triggering merges/commits without leaving your web browser.
 ##### Setup Steps
 - Download the project as a zip
 - Unzip the download
-- Open `TFS-URI-Commands-master/CustomProtocol/bin/Debug/`
+- Open `TFS-URI-Commands-master/CustomProtocol/bin/Release/`
 - Shift right-click on `CustomProtocol.exe` and Run As Administrator
 - This will install a custom URL handler for the TFS merge links
 - Note: May need to setup a path for `TF` in your environment variables if you don't have it setup aleardy (reboot when done).
